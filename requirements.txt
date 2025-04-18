@@ -88,4 +88,4 @@ watchdog==6.0.0
 wcwidth==0.2.13
 yarl==1.18.3
 torch==2.2.1
-ctgan==0.7.1
+ctgan==0.11.0
