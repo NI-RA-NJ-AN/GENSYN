@@ -4,7 +4,7 @@ import io
 import google.generativeai as genai
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyAcUybVnEh95L57EMN5ToEMNjFsal2O3MA")  
+genai.configure(api_key="your key")  
 
 def generate_synthetic_data(prompt, num_rows, num_columns):
     """
